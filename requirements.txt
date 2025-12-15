@@ -1,0 +1,4 @@
+Ollama
+HuggingFaceEmbeddings
+FAISS
+LangChain
